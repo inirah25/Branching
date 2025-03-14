@@ -1,2 +1,4 @@
 this is the file one
 in a new branch
+
+checking partial commits as new branch
